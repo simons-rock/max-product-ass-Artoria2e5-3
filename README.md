@@ -3,9 +3,9 @@
 Find the maximum product of two distinct numbers in a sequence of non-negative integers.
 
 ## Formalize problem
-Input:
+Input: an array of non-negative integers, `xs`, and its length
 
-Output:
+Output: the maximum of all possible products of 2 distinct elements of `xs`.
 
 ## Problem instance
 Input: 
